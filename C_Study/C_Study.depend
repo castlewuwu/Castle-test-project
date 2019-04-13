@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555170993 source:d:\github\clone\castle-test-project\c_study\main.c
+	<stdio.h>
+	<stdlib.h>
+
